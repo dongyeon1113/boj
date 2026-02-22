@@ -5,7 +5,7 @@
 using namespace std;
 
 int main()
-{
+{ 
     // 입출력 속도 향상 (시간 초과 방지)
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
