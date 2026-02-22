@@ -21,9 +21,20 @@
 ###  Deque
 - [x] 10866 덱 (덱 기본 구현)
 
+### 🔍 Binary Search (이분 탐색)
+- [x] 1920 수 찾기 (기본 이분 탐색)
+- [ ] 2805 나무 자르기 (매개 변수 탐색)
 ---
 
 ## 💡 Memo
 - 출력 시 `endl` 금지 (`\n` 사용)
 - 스택/큐 참조 시 `empty()` 체크 필수
 - 작업 전 무조건 `git pull origin main`
+
+##  Study Roadmap
+- [x] 기초 자료구조 (Stack, Queue, Deque)
+- [ ] 이분 탐색 (Binary Search)
+- [ ] 완전 탐색 (Brute Force & Backtracking)
+- [ ] 그리디 (Greedy)
+- [ ] 동적 계획법 (DP)
+- [ ] 그래프 탐색 (DFS & BFS)
