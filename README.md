@@ -31,7 +31,8 @@
 - [x] 1654 랜선 자르기 (매개 변수 탐색)
 
 ###  Greedy Algorithm
-- [x] 1921 회의실 배정 (vector<pair>,그리디활용)
+- [x] 1931 회의실 배정 (vector<pair>,그리디활용)
+- [x] 11399 ATM (대기시간 합계 최소화를 위한 오름차순 정렬)
 ---
 
 ## 💡 Memo
@@ -41,7 +42,7 @@
 
 ##  Study Roadmap
 - [x] 기초 자료구조 (Stack, Queue, Deque)
-- [ ] 이분 탐색 (Binary Search)
+- [x] 이분 탐색 (Binary Search)
 - [ ] 완전 탐색 (Brute Force & Backtracking)
 - [ ] 그리디 (Greedy)
 - [ ] 동적 계획법 (DP)
