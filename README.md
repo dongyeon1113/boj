@@ -33,6 +33,7 @@
 ###  Greedy Algorithm
 - [x] 1931 회의실 배정 (vector<pair>,그리디활용)
 - [x] 11399 ATM (대기시간 합계 최소화를 위한 오름차순 정렬)
+- [x] 13305 주유소 (long long 타입 고려)
 ---
 
 ## 💡 Memo
@@ -44,6 +45,6 @@
 - [x] 기초 자료구조 (Stack, Queue, Deque)
 - [x] 이분 탐색 (Binary Search)
 - [ ] 완전 탐색 (Brute Force & Backtracking)
-- [ ] 그리디 (Greedy)
+- [x] 그리디 (Greedy)
 - [ ] 동적 계획법 (DP)
 - [ ] 그래프 탐색 (DFS & BFS)
