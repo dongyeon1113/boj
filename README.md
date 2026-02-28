@@ -36,7 +36,8 @@
 - [x] 13305 주유소 (long long 타입 고려)
 
 ### DFS & BFS
-- [ ] 1260 주유소 DFS & BFS (DFS, BFS 기초 구현)
+- [x] 1260 DFS & BFS (DFS, BFS 기초 구현)
+- [x] 2606 바이러스 (DFS,BFS 응용)
 ---
 
 ## 💡 Memo
